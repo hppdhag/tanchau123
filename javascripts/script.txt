@@ -1,0 +1,1 @@
+﻿function call(index){URL="https://hppdhag.github.io/javascripts/";link=new Array(0,"jquery.txt",1,"function-document-write.txt",2,"time-ago.txt",3,"flexslider.txt",4,"encode-script.txt",5,"mix.txt",6,"emoticon.txt",7,"related-clip.txt",8,"ajax.txt",9,"search.txt",10,"search-page.txt");number=index*2+1;document.write('<script src="'+URL+link[number]+'"><\/script>');}
