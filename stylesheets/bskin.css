@@ -243,11 +243,11 @@ blockquote{background:#fff url(http://3.bp.blogspot.com/-oJGKeJ9Ifcw/T_UTxhEpzSI
 /* === WARNING FOR PERMISSION === */
 #Warning{z-index:99;position:fixed;top:0;left:0;opacity:1;width:100% !important;height:100%;padding:20% 26% 20% 26%;background:rgba(0,0,0,.9)}
 .warning1{height:166px !important;margin:0 6% 0 6%}
-.warning1:before,.warning2:before{display:block;content:"ThÄ‚Â´ng tin bÄ‚ i viĂ¡ÂºÂ¿t";line-height:1.4;font:400 1.5em Roboto Condensed,sans-serif;text-transform:uppercase;padding:6px 15px;background:#39C;color:#fff;text-align:center}
+.warning1:before,.warning2:before{display:block;content:"Thông tin bài viết";line-height:1.4;font:400 1.5em Roboto Condensed,sans-serif;text-transform:uppercase;padding:6px 15px;background:#39C;color:#fff;text-align:center}
 .warning1,.warning2{height:195px;background:rgb(255, 255, 255)}
 .warning1:after,.warning2:after{position:relative;float:left;top:-15px;font:normal 1.4em 'Roboto Condensed',sans-serif;padding:0px 70px;text-align:center}
-.warning1:after{content:"BÄ‚ i viĂ¡ÂºÂ¿t nÄ‚ y cÄ‚Â³ chĂ¡Â»Â©a (cÄ‚Â¡c) clip kinh dĂ¡Â»â€¹. BĂ¡ÂºÂ¡n nÄ‚Âªn cÄ‚Â¢n nhĂ¡ÂºÂ¯c trĂ†Â°Ă¡Â»â€ºc khi xem."}
-.warning2:after{content:"BÄ‚ i viĂ¡ÂºÂ¿t nÄ‚ y cÄ‚Â³ chĂ¡Â»Â©a nhĂ¡Â»Â¯ng hÄ‚Â¬nh Ă¡ÂºÂ£nh nhĂ¡ÂºÂ¡y cĂ¡ÂºÂ£m. BĂ¡ÂºÂ¡n nÄ‚Âªn cÄ‚Â¢n nhĂ¡ÂºÂ¯c trĂ†Â°Ă¡Â»â€ºc khi xem."}
+.warning1:after{content:"Bài viết này có clip kinh dị. Bạn nên cân nhắc trước khi xem."}
+.warning2:after{content:"Bài viết này có những hình ảnh nhạy cảm. Bạn nên cân nhắc trước khi xem."}
 .warning1 a:first-child{position:relative;float:left;top:91px;width:47%;text-align:center;background:rgb(238, 238, 238);font:normal 1em 'Roboto Condensed',sans-serif !important;padding:5px 10px}
 .warning2 a:first-child{position:relative;float:left;top:110px;width:47%;text-align:center;background:rgb(238, 238, 238);font:normal 1em 'Roboto Condensed',sans-serif !important;padding:5px 10px}
 .warning1 div,.warning2 div{float:right !important;height:0px !important;padding:0px !important}
